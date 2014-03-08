@@ -1,0 +1,12 @@
+name: iHealPlus
+main: io.github.TheRoboDC.iHealPlus
+version: 0.1
+author: TheRoboDC
+description: This plugin is currently in development, but I hope to make this an advanced healing plugin. Right now, you can heal yourself and others without causing problems - Console can't heal itself!
+commands:
+  heal:
+    description: Heal yourself and remove any fire from yourself.
+    usage: Just type "/heal" without the quotations!
+  heal playerName:
+    description: Heal another player and remove any fire from them.
+    usage: Just type "/heal <playerName>" without the quotations!
